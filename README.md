@@ -19,4 +19,4 @@ We can also observe the score for social connectedness is lower when the student
 We can conclude that going to university in a different country affects your mental health.
 From our above analysis, we can conclude international students have a higher risk of mental health difficulties than the general population, and that social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.
 
-Check out the Project [here]()
+Check out the Project [here](https://github.com/wanjiruuu/Analyzing-Students-Mental-Health/blob/main/notebook.ipynb)
